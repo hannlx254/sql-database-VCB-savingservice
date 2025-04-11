@@ -1,4 +1,4 @@
-## 📘 Project Introduction
+## Project Introduction
 
 **Project Title:** Designing and Managing a Database for the Process Related to Saving Service on the Vietcombank Application
 
@@ -13,7 +13,7 @@ The project covers from business model understanding to logical and physical dat
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 | No. | Full Name              |
 |-----|------------------------|
@@ -26,7 +26,7 @@ The project covers from business model understanding to logical and physical dat
 
 ---
 
-## 💼 My Responsibilities
+## My Responsibilities
 
 As a member of **Group 10**, I contributed significantly to the development of the project. My key responsibilities included:
 
@@ -43,7 +43,7 @@ As a member of **Group 10**, I contributed significantly to the development of t
 
 ---
 
-## 🛠️ Skills and Tools Used
+## Skills and Tools Used
 
 ### Technical Skills Gained:
 - Database modeling and normalization (ERD, 3NF).
